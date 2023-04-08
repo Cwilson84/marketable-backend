@@ -4,7 +4,7 @@
 
 ## Description
 
-The goal of this project was to set up and connect a back end to an existing front end application. This challenge utilized several technologies including sequelize, express.js, dotenv, and mysql2.
+The goal of this project was to develop and deploy the back for an existing Express.js api, and configure it to use Sequelize to interact with a MySQL database. This challenge utilized several technologies including Sequelize, Express.js, dotenv, and MySQL2.
 
 ## Table of Contents
 
@@ -13,6 +13,8 @@ The goal of this project was to set up and connect a back end to an existing fro
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
+* [Links](#links)
+* [Credits](#credits)
 * [Questions](#questions)
 
 ## Installation
